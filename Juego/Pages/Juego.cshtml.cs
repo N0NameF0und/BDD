@@ -8,23 +8,18 @@ using Microsoft.Extensions.Logging;
 
 namespace Juego.Pages
 {
-    public class LoginModel : PageModel
+    public class JuegoModel : PageModel
     {
-        private readonly ILogger<LoginModel> _logger;
+        private readonly ILogger<IndexModel> _logger;
 
-        public LoginModel(ILogger<LoginModel> logger)
+        public JuegoModel(ILogger<IndexModel> logger)
         {
             _logger = logger;
         }
 
         public void OnGet()
         {
-        }
-        public void Ingresar()
-        {
 
         }
-        public string usuario{get; set;}
-            
     }
 }
