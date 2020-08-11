@@ -6,6 +6,16 @@
 
   <ItemGroup>
     <Folder Include="Pages\NewFolder\" />
+    <Folder Include="Pages\Scripts\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\style.css" />
+    <None Include="wwwroot\js\cell.js" />
+    <None Include="wwwroot\js\p5.dom.min.js" />
+    <None Include="wwwroot\js\p5.min.js" />
+    <None Include="wwwroot\js\p5.sound.min.js" />
+    <None Include="wwwroot\js\sketch.js" />
   </ItemGroup>
 
 </Project>
