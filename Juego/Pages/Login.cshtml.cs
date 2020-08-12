@@ -27,4 +27,7 @@ namespace Juego.Pages
         public string usuario{get; set;}
             
     }
+
+   
+
 }

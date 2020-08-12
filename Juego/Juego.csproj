@@ -5,8 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Pages\NewFolder\" />
-    <Folder Include="Pages\Scripts\" />
+    <Compile Remove="Pages\Scripts\**" />
+    <Content Remove="Pages\Scripts\**" />
+    <EmbeddedResource Remove="Pages\Scripts\**" />
+    <None Remove="Pages\Scripts\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -16,6 +18,10 @@
     <None Include="wwwroot\js\p5.min.js" />
     <None Include="wwwroot\js\p5.sound.min.js" />
     <None Include="wwwroot\js\sketch.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
   </ItemGroup>
 
 </Project>
