@@ -1,0 +1,10 @@
+﻿2020-08-11T18:39:57.4870635-05:00;Thread#1;Info;Reading test run result from Json file "C:\Users\Kamz\AppData\Local\Temp\tmp6A.tmp".
+2020-08-11T18:39:57.4970627-05:00;Thread#1;Info;Successfully read test run result from Json file "C:\Users\Kamz\AppData\Local\Temp\tmp6A.tmp"
+2020-08-11T18:39:57.4970627-05:00;Thread#1;Info;Deserializing test run result
+2020-08-11T18:39:58.0486086-05:00;Thread#1;Info;Successfully deserialized test run result
+2020-08-11T18:39:58.0486086-05:00;Thread#1;Info;Loading test run result
+2020-08-11T18:39:58.0816118-05:00;Thread#1;Info;Successfully loaded test run result
+2020-08-11T18:39:58.0916128-05:00;Thread#1;Info;creating 1 report(s)
+2020-08-11T18:39:58.0916128-05:00;Thread#1;Info;generate Report ReportTemplate.cshtml
+2020-08-11T18:39:59.3732527-05:00;Thread#1;Info;Finished generating reports.
+========== End of log file ==========

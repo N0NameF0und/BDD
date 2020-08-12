@@ -1,0 +1,235 @@
+﻿2020-08-11T18:22:20.9078655-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-08-11T18:22:20.9081414-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.3.41 in Framework netcore31 in x64 mode execution started
+2020-08-11T18:22:20.9081469-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-08-11T18:22:20.9107586-05:00;VSTestExecutionThread;Info;Current UserName: 'Kamz', MachineName: 'LAPTOP-4PKH2ABB'
+2020-08-11T18:22:20.9472643-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1\SpecFlowJuegoMinas.dll
+2020-08-11T18:22:20.9474827-05:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Kamz\source\repos\juego\TestResults" (default)
+2020-08-11T18:22:20.9475397-05:00;VSTestExecutionThread;Info;Profile: 
+2020-08-11T18:22:21.0030598-05:00;VSTestExecutionThread;Info;Log file path: C:\Users\Kamz\source\repos\juego\TestResults\Unnamed project__2020-08-11T182220.log
+2020-08-11T18:22:21.0091440-05:00;Thread#12;Info;Checking activation
+2020-08-11T18:22:21.1090014-05:00;Thread#12;Info;Activated.
+2020-08-11T18:22:21.1093059-05:00;Thread#12;Info;Activation check completed
+2020-08-11T18:22:21.1094092-05:00;Thread#12;Info;Starting test run
+2020-08-11T18:22:21.2019915-05:00;Thread#12;Info;Discovering target: Default
+2020-08-11T18:22:21.2021601-05:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1\SpecFlowJuegoMinas.dll
+2020-08-11T18:22:21.2977283-05:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1\SpecFlowJuegoMinas.dll
+2020-08-11T18:22:21.2992820-05:00:Test Suite Dump
+2020-08-11T18:22:21.3011606-05:00:#0: Unnamed project/ - 
+2020-08-11T18:22:21.3011972-05:00:#1: Default - 
+2020-08-11T18:22:21.3012003-05:00:#2: SpecFlowJuegoMinas - 
+2020-08-11T18:22:21.3012027-05:00:#3: JuegoMinas - 
+2020-08-11T18:22:21.3026793-05:00:#4: Ingreso al juego - TestAssembly:SpecFlowJuegoMinas/Feature:JuegoMinas/Scenario:Ingreso+al+juego
+2020-08-11T18:22:21.3027472-05:00:End: Test Suite Dump
+2020-08-11T18:22:21.3219243-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-11T18:22:21.3237205-05:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-08-11T18:22:21.3238042-05:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-08-11T18:22:21.3274825-05:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-11T18:22:21.3274993-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-08-11T18:22:21.3275011-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-08-11T18:22:21.3275049-05:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-08-11T18:22:21.3282215-05:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-08-11T18:22:21.3296061-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-08-11T18:22:21.3319019-05:00:Thread #0: creating new test thread executor for SpecFlowJuegoMinas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-08-11T18:22:21.3346381-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-08-11T18:22:21.3348688-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-08-11T18:22:21.3372791-05:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-08-11T18:22:21.3389526-05:00:starting Out Of Process Executor
+2020-08-11T18:22:21.3405475-05:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T18:22:21.3437177-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-08-11T18:22:21.3437409-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-08-11T18:22:21.3450760-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1'
+2020-08-11T18:22:21.3454907-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-08-11T18:22:21.3456503-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2020-08-11T18:22:21.3457006-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1'
+2020-08-11T18:22:21.3530511-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T18:22:21.3530669-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-11T18:22:21.3531399-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-11T18:22:21.3531820-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T18:22:21.3533358-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T18:22:21.3533413-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-11T18:22:21.3533937-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-11T18:22:21.3534335-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T18:22:21.3535879-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T18:22:21.3535931-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-11T18:22:21.3536677-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-11T18:22:21.3537116-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T18:22:21.3563549-05:00:Starting callback TCP Rpc server
+2020-08-11T18:22:21.3789773-05:00:Asynchronously starting background TCP Rpc Server on port 32768
+2020-08-11T18:22:21.3790460-05:00:Started callback TCP Rpc server on port 32768
+2020-08-11T18:22:21.3790504-05:00:Starting logger TCP Rpc server
+2020-08-11T18:22:21.3819492-05:00:Asynchronously starting background TCP Rpc Server on port 32769
+2020-08-11T18:22:21.3819812-05:00:Started logger TCP Rpc server on port 32769
+2020-08-11T18:22:21.4887725-05:00:Executing test executor at 'dotnet' 'exec "C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 16652 --uniqueId "2020-08-11T182220" --outputFolder "C:\Users\Kamz\source\repos\juego\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1'
+2020-08-11T18:22:21.5027704-05:00:Executor with PID 21168 has been started successfully.
+2020-08-11T18:22:21.5077402-05:00:Out of Process Executor 21168 started
+2020-08-11T18:22:21.5077724-05:00:Waiting for endpoint
+2020-08-11T18:22:21.8892628-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es-MX, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T18:22:21.8892831-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2020-08-11T18:22:21.8892901-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2020-08-11T18:22:21.8892987-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1'
+2020-08-11T18:22:21.8893013-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2020-08-11T18:22:21.8893846-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2020-08-11T18:22:21.8894420-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1'
+2020-08-11T18:22:21.8902378-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T18:22:21.8902748-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-11T18:22:21.8903718-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-11T18:22:21.8904366-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T18:22:21.8907441-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T18:22:21.8907618-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-11T18:22:21.8908408-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-11T18:22:21.8908970-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T18:22:21.8911664-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T18:22:21.8911835-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-11T18:22:21.8912940-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-11T18:22:21.8913527-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T18:22:21.8924215-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T18:22:21.8933138-05:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T18:22:21.8933330-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-08-11T18:22:21.8933464-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-08-11T18:22:21.8933538-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1'
+2020-08-11T18:22:21.8933672-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-08-11T18:22:21.8934313-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2020-08-11T18:22:21.8935076-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1'
+2020-08-11T18:22:21.8941065-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T18:22:21.8941486-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-11T18:22:21.8942588-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-11T18:22:21.8943138-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T18:22:21.8945253-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T18:22:21.8945332-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-11T18:22:21.8945947-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-11T18:22:21.8946450-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T18:22:21.8948386-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T18:22:21.8948504-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-11T18:22:21.8949324-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-11T18:22:21.8949843-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T18:22:22.1533358-05:00:Remote executor port received: 32770
+2020-08-11T18:22:22.1539299-05:00:Creating executor TCP client on port 32770
+2020-08-11T18:22:22.1545765-05:00:Created executor TCP client on port 32770
+2020-08-11T18:22:22.1545853-05:00:Connecting to remote executor TCP server
+2020-08-11T18:22:22.1558894-05:00:Connected remote executor TCP server
+2020-08-11T18:22:22.1561476-05:00:trying to connect to Out of Process Executor the 1 attempt
+2020-08-11T18:22:22.1561613-05:00:Connection to Out of Process Executor established in the 1 attempt
+2020-08-11T18:22:22.3457186-05:00:2020-08-11T18:22:22.3421124-05:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1\SpecFlowJuegoMinas.dll on test thread #0
+2020-08-11T18:22:22.3522602-05:00:Endpoint 21168 started
+2020-08-11T18:22:22.3770353-05:00:2020-08-11T18:22:22.3766220-05:00:OutOfProcessTestAssemblyExecutor: running tests...
+2020-08-11T18:22:22.5219780-05:00:2020-08-11T18:22:22.5215510-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-08-11T18:22:22.5254107-05:00:2020-08-11T18:22:22.5249014-05:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2020-08-11T18:22:22.5311266-05:00:2020-08-11T18:22:22.5307023-05:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Kamz\.nuget\packages\specflow\3.3.30\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2020-08-11T18:22:22.6558429-05:00:2020-08-11T18:22:22.6541613-05:00:Thread#0:T:-> Loading plugin C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-08-11T18:22:22.6612228-05:00:2020-08-11T18:22:22.6592210-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-08-11T18:22:22.6675695-05:00:2020-08-11T18:22:22.6665087-05:00:Thread#0:T:-> Using default config
+2020-08-11T18:22:22.6823095-05:00:2020-08-11T18:22:22.6807159-05:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-08-11T18:22:22.6862445-05:00:2020-08-11T18:22:22.6852942-05:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2020-08-11T18:22:22.6872067-05:00:2020-08-11T18:22:22.6869317-05:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Kamz\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2020-08-11T18:22:22.6888227-05:00:2020-08-11T18:22:22.6884790-05:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-08-11T18:22:22.6891585-05:00:2020-08-11T18:22:22.6889918-05:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2020-08-11T18:22:22.6897263-05:00:2020-08-11T18:22:22.6895370-05:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Kamz\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2020-08-11T18:22:22.7006793-05:00:2020-08-11T18:22:22.7002993-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T18:22:22.7011344-05:00:2020-08-11T18:22:22.7008904-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2020-08-11T18:22:22.7018606-05:00:2020-08-11T18:22:22.7016015-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Kamz\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2020-08-11T18:22:22.7397198-05:00:2020-08-11T18:22:22.7392866-05:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-08-11T18:22:22.7402510-05:00:2020-08-11T18:22:22.7399675-05:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2020-08-11T18:22:22.7411871-05:00:2020-08-11T18:22:22.7408104-05:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\Kamz\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2020-08-11T18:22:22.9984649-05:00:Thread#0: Test #4/0 is started on thread #0
+2020-08-11T18:22:23.0091376-05:00:2020-08-11T18:22:23.0086681-05:00:Assembly resolving Gherkin, Version=6.0.0.0, Culture=neutral, PublicKeyToken=86496cfa5b4a5851
+2020-08-11T18:22:23.0098522-05:00:2020-08-11T18:22:23.0094847-05:00:[AssemblyCache] Trying to resolve 'Gherkin' from .deps.json file
+2020-08-11T18:22:23.0108352-05:00:2020-08-11T18:22:23.0104501-05:00:[AssemblyCache] Resolved 'Gherkin' to 'C:\Users\Kamz\.nuget\packages\gherkin\6.0.0\lib\netstandard2.0\Gherkin.dll'
+2020-08-11T18:22:23.0903497-05:00:2020-08-11T18:22:23.0898537-05:00:Thread#0:B:Dado que me registro en el sistema
+2020-08-11T18:22:23.1001638-05:00:2020-08-11T18:22:23.0997736-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SpecFlowJuegoMinas:SpecFlowJuegoMinas.Steps.JuegoMinasSteps.DadoQueMeRegistroEnElSistema(String)' should have 0 parameters
+2020-08-11T18:22:23.1020848-05:00:2020-08-11T18:22:23.1016586-05:00:Thread#0:B:Cuando ingreso mi nombre
+2020-08-11T18:22:23.1037478-05:00:2020-08-11T18:22:23.1034420-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T18:22:23.1084837-05:00:2020-08-11T18:22:23.1079735-05:00:Thread#0:B:Entonces el juego inicializara
+2020-08-11T18:22:23.1093204-05:00:2020-08-11T18:22:23.1089592-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T18:22:23.1596359-05:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2020-08-11T18:22:23.1619776-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-11T18:22:23.1620441-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2020-08-11T18:22:23.1620485-05:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-08-11T18:22:23.1621185-05:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-11T18:22:23.1621239-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-08-11T18:22:23.1621262-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-08-11T18:22:23.1621287-05:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-08-11T18:22:23.1621672-05:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-08-11T18:22:23.1621997-05:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2020-08-11T18:22:23.2043960-05:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 0,2044944 seconds
+2020-08-11T18:22:23.2080251-05:00:Thread#0: Test #4/1 is started on thread #0
+2020-08-11T18:22:23.2103324-05:00:2020-08-11T18:22:23.2098668-05:00:Thread#0:B:Dado que me registro en el sistema
+2020-08-11T18:22:23.2113716-05:00:2020-08-11T18:22:23.2109488-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SpecFlowJuegoMinas:SpecFlowJuegoMinas.Steps.JuegoMinasSteps.DadoQueMeRegistroEnElSistema(String)' should have 0 parameters
+2020-08-11T18:22:23.2124336-05:00:2020-08-11T18:22:23.2117837-05:00:Thread#0:B:Cuando ingreso mi nombre
+2020-08-11T18:22:23.2131905-05:00:2020-08-11T18:22:23.2128555-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T18:22:23.2138060-05:00:2020-08-11T18:22:23.2135391-05:00:Thread#0:B:Entonces el juego inicializara
+2020-08-11T18:22:23.2144796-05:00:2020-08-11T18:22:23.2141606-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T18:22:23.2170706-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-11T18:22:23.2171044-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2020-08-11T18:22:23.2171081-05:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-08-11T18:22:23.2171457-05:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-11T18:22:23.2171492-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-08-11T18:22:23.2171516-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-08-11T18:22:23.2171541-05:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-08-11T18:22:23.2171676-05:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-08-11T18:22:23.2171762-05:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2020-08-11T18:22:23.2190163-05:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 0,010898 seconds
+2020-08-11T18:22:23.2207816-05:00:Thread#0: Test #4/2 is started on thread #0
+2020-08-11T18:22:23.2217477-05:00:2020-08-11T18:22:23.2213943-05:00:Thread#0:B:Dado que me registro en el sistema
+2020-08-11T18:22:23.2226414-05:00:2020-08-11T18:22:23.2223282-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SpecFlowJuegoMinas:SpecFlowJuegoMinas.Steps.JuegoMinasSteps.DadoQueMeRegistroEnElSistema(String)' should have 0 parameters
+2020-08-11T18:22:23.2231142-05:00:2020-08-11T18:22:23.2229105-05:00:Thread#0:B:Cuando ingreso mi nombre
+2020-08-11T18:22:23.2236621-05:00:2020-08-11T18:22:23.2233569-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T18:22:23.2243098-05:00:2020-08-11T18:22:23.2239948-05:00:Thread#0:B:Entonces el juego inicializara
+2020-08-11T18:22:23.2252235-05:00:2020-08-11T18:22:23.2247193-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T18:22:23.2282601-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-11T18:22:23.2282892-05:00:Thread#:Scheduler: at the end of normal test queue
+2020-08-11T18:22:23.2282931-05:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-08-11T18:22:23.2282969-05:00:Thread#0:Scheduler: No more tests for thread
+2020-08-11T18:22:23.2312589-05:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 0,0104332 seconds
+2020-08-11T18:22:23.2402045-05:00:2020-08-11T18:22:23.2398278-05:00:Got Deinitialize Signal
+2020-08-11T18:22:23.2515470-05:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-08-11T18:22:23.2526689-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-08-11T18:22:23.2544874-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-08-11T18:22:23.2560245-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es-MX, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T18:22:23.2560440-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2020-08-11T18:22:23.2560498-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2020-08-11T18:22:23.2560569-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1'
+2020-08-11T18:22:23.2560588-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-08-11T18:22:23.2561124-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-08-11T18:22:23.2561533-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Kamz\source\repos\juego\SpecFlowJuegoMinas\bin\Debug\netcoreapp3.1'
+2020-08-11T18:22:23.2571918-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T18:22:23.2572101-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\System.Diagnostics.Process.resources.dll'
+2020-08-11T18:22:23.2572895-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\System.Diagnostics.Process.resources.exe'
+2020-08-11T18:22:23.2573422-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T18:22:23.2575185-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T18:22:23.2575273-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Diagnostics.Process.resources.dll'
+2020-08-11T18:22:23.2575933-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Diagnostics.Process.resources.exe'
+2020-08-11T18:22:23.2576447-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T18:22:23.2578609-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T18:22:23.2578697-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\System.Diagnostics.Process.resources.dll'
+2020-08-11T18:22:23.2579665-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\System.Diagnostics.Process.resources.exe'
+2020-08-11T18:22:23.2580189-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T18:22:23.2585169-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T18:22:23.2670427-05:00:Thread#-1:Scheduler: get next test for thread -1
+2020-08-11T18:22:23.2670669-05:00:Thread#:Scheduler: at the end of normal test queue
+2020-08-11T18:22:23.2670702-05:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-08-11T18:22:23.2742203-05:00;Thread#12;Info;test run finished
+2020-08-11T18:22:23.2744953-05:00;Thread#12;Info;publishing test results
+2020-08-11T18:22:23.2748702-05:00;Thread#12;Info;Not publishing results.
+2020-08-11T18:22:23.2750656-05:00;Thread#12;Info;test results published
+2020-08-11T18:22:23.2751758-05:00;Thread#12;Info;generating reports
+2020-08-11T18:22:23.4085284-05:00;Thread#12;Info;Starting external report generation process
+2020-08-11T18:22:25.8667699-05:00;Thread#12;Info;Successfully generated reports.
+2020-08-11T18:22:25.8699942-05:00;Thread#12;Info;Successfully generated reports
+2020-08-11T18:22:25.8794902-05:00:Total: 1 (test executions: 3)
+2020-08-11T18:22:25.8813892-05:00:Succeeded: 0
+2020-08-11T18:22:25.8817328-05:00:Ignored: 0
+2020-08-11T18:22:25.8820099-05:00:Pending: 0
+2020-08-11T18:22:25.8820168-05:00:Skipped: 0
+2020-08-11T18:22:25.8822778-05:00:Failed: 1
+2020-08-11T18:22:25.8891384-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-08-11T18:22:25.8892721-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Kamz\source\repos\juego\TestResults\Unnamed project__2020-08-11T182220.html'
+========== End of log file ==========

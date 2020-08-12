@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Christian\\Desktop\\BDD\\SpecFlowJuegoMinas\\SpecFlowJuegoMinas.csproj": {}
+    "C:\\Users\\Kamz\\source\\repos\\juego\\SpecFlowJuegoMinas\\SpecFlowJuegoMinas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Christian\\Desktop\\BDD\\SpecFlowJuegoMinas\\SpecFlowJuegoMinas.csproj": {
+    "C:\\Users\\Kamz\\source\\repos\\juego\\SpecFlowJuegoMinas\\SpecFlowJuegoMinas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Christian\\Desktop\\BDD\\SpecFlowJuegoMinas\\SpecFlowJuegoMinas.csproj",
+        "projectUniqueName": "C:\\Users\\Kamz\\source\\repos\\juego\\SpecFlowJuegoMinas\\SpecFlowJuegoMinas.csproj",
         "projectName": "SpecFlowJuegoMinas",
-        "projectPath": "C:\\Users\\Christian\\Desktop\\BDD\\SpecFlowJuegoMinas\\SpecFlowJuegoMinas.csproj",
-        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Christian\\Desktop\\BDD\\SpecFlowJuegoMinas\\obj\\",
+        "projectPath": "C:\\Users\\Kamz\\source\\repos\\juego\\SpecFlowJuegoMinas\\SpecFlowJuegoMinas.csproj",
+        "packagesPath": "C:\\Users\\Kamz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kamz\\source\\repos\\juego\\SpecFlowJuegoMinas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Kamz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -69,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
