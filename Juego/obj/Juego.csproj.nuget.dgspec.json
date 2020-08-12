@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kamz\\source\\repos\\juego\\Juego\\Juego.csproj": {}
+    "C:\\Users\\Christian\\Desktop\\BDD\\Juego\\Juego.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kamz\\source\\repos\\juego\\Juego\\Juego.csproj": {
+    "C:\\Users\\Christian\\Desktop\\BDD\\Juego\\Juego.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kamz\\source\\repos\\juego\\Juego\\Juego.csproj",
+        "projectUniqueName": "C:\\Users\\Christian\\Desktop\\BDD\\Juego\\Juego.csproj",
         "projectName": "Juego",
-        "projectPath": "C:\\Users\\Kamz\\source\\repos\\juego\\Juego\\Juego.csproj",
-        "packagesPath": "C:\\Users\\Kamz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kamz\\source\\repos\\juego\\Juego\\obj\\",
+        "projectPath": "C:\\Users\\Christian\\Desktop\\BDD\\Juego\\Juego.csproj",
+        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christian\\Desktop\\BDD\\Juego\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kamz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -59,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
