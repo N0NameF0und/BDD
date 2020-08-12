@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "b/pkKiKAfY22JPGSfWUSB3ELhJZ2aq5cfQfQeBZlfjM8G6eLlzE2YiTFE+o0Xt1hQ4CamcN1Cuy0becNhs7NKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kamz\\source\\repos\\juego\\Juego\\Juego.csproj",
@@ -112,5 +113,11 @@
     "C:\\Users\\Kamz\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Kamz\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "gyRvTZVL4CXaVS6KHQtydCEbdxbeME/qsnQSyzoTfKYcR/CuYZ41VVj18TrdZVMQtAtkc1bmL/TkwwlbZyKwbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Christian\\Desktop\\BDD\\Juego\\Juego.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> 2e138af4396d1f1abeb3d53061a159d6c842a4a7
   "logs": []
 }
