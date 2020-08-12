@@ -189,3 +189,4 @@ C:\Users\Kamz\source\repos\juego\Juego\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft
 C:\Users\Kamz\source\repos\juego\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.CoreCompileInputs.cache
 C:\Users\Kamz\source\repos\juego\Juego\obj\Debug\netcoreapp3.1\Juego.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Kamz\source\repos\juego\Juego\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Index.cshtml.g.cs
+C:\Users\Kamz\source\repos\juego\Juego\obj\Debug\netcoreapp3.1\Razor\Views\Juego\Index.cshtml.g.cs
