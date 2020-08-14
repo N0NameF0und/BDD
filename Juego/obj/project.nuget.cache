@@ -1,10 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "b/pkKiKAfY22JPGSfWUSB3ELhJZ2aq5cfQfQeBZlfjM8G6eLlzE2YiTFE+o0Xt1hQ4CamcN1Cuy0becNhs7NKA==",
-=======
   "dgSpecHash": "gZeQYup/RK2+3/CTj5HLD+ET4Xctc1SSjjZw0WPVBpsgVjHI7+IC8f8vlYuETRVc9d76nQX74HGRfTxv0R9tvg==",
->>>>>>> refs/remotes/origin/master
   "success": true,
   "projectFilePath": "C:\\Users\\Christian\\Desktop\\BDD\\Juego\\Juego.csproj",
   "expectedPackageFiles": [
@@ -121,11 +117,7 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-<<<<<<< HEAD
-      "message": "Problema al leer el archivo de caché C:\\Users\\Kamz\\source\\repos\\juego\\Juego\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-=======
       "message": "Problema al leer el archivo de caché C:\\Users\\Christian\\Desktop\\BDD\\Juego\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
->>>>>>> refs/remotes/origin/master
     }
   ]
 }
